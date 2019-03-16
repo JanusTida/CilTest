@@ -180,7 +180,6 @@ namespace TestDemo {
             double time6 = StopwatchHelper.Calculate(count, () => {
 
                 var a = EmitStateCell<ClassB, ClassA>.CreateObjectHandler.Invoke(new ClassB());
-
             }).TotalMilliseconds;
             Trace.WriteLine($"Emit Object工厂耗时:{time6}");
 
