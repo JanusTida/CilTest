@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="TestDemo.EmitTest.TestGenricEmit" /><Add Test="TestDemo.EmitTest.TestGenericMethodEmit" /><Add Test="TestDemo.EmitTest.TestReverse" /><Add Test="TestDemo.EmitTest.TestInheritEmit" /><Add Test="TestDemo.EmitTest.TestPropertyEmit" /></Playlist>
